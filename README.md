@@ -9,7 +9,6 @@
 ![Новая ветка](image-3.png)
   
 ![Коммит](image-4.png)
-А может поспать вместо лабы? (accept current)
 
 ![Эдитор](image-5.png)
 
